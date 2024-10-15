@@ -47,8 +47,10 @@ To run this bot, you'll need:
 
 1. Clone or download this repository to your machine:
 
-```git clone https://github.com/your-username/discord-moderation-bot.git
-cd discord-moderation-bot```
+```
+git clone https://github.com/your-username/discord-moderation-bot.git
+cd discord-moderation-bot
+```
 
 2. Installed the required Python dependencies:
 
