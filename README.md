@@ -63,3 +63,4 @@ cd discord-moderation-bot
 ## Future Updates
 
 In the future, one of the more important features / changes I will most likely add is a seperate file that reads the token so the user does not have to edit the main python file itself.
+I may also add a logging feature on the bot in the future.
